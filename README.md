@@ -8,8 +8,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="![linkedin](https://user-images.githubusercontent.com/33263014/138447590-a873d8c8-649a-4b72-a6a9-11a984ee9a3d.png)
+" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="![instagram](https://user-images.githubusercontent.com/33263014/138447553-5f59b236-a75b-40bd-9795-d18144dfe3e3.png)
+" />][instagram]
 
 <br/>
 
