@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Tinkerer and Illustrator!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 🥅 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to draw
 
